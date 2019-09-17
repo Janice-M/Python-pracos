@@ -7,3 +7,8 @@ print ('b' * 10)
 
 price= 10
 #python variable
+
+name = input('what is your name?')
+
+print ('hey '+ name)
+#this is a basic input function
